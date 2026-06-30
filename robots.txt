@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tempepestcontrolco.com/sitemap.xml
